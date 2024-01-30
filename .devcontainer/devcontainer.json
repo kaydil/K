@@ -7,7 +7,7 @@
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18-bullseye",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+	// "features": {install},
 
 	// Configure tool-specific properties.
 	"customizations": {
